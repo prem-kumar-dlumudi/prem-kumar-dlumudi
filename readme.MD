@@ -6,7 +6,7 @@
 <h3 align="center">DevOps Engineer | AWS | Azure | Kubernetes | Terraform | CI/CD</h3>
 
 <p align="center">
-Certified DevOps Engineer with 6+ years of IT experience, including 3+ years in cloud infrastructure, CI/CD automation, and container orchestration.  
+Certified DevOps Engineer with 6years of IT experience, including 3+ years in cloud infrastructure, CI/CD automation, and container orchestration.  
 Passionate about building scalable, secure, and highly available cloud systems.
 </p>
 
