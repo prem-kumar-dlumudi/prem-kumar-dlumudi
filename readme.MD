@@ -14,7 +14,7 @@ Passionate about building scalable, secure, and highly available cloud systems.
 
 ## 🚀 About Me
 
-- 🔹 DevOps Engineer with **6+ years of experience**
+- 🔹 DevOps Engineer with **6years of experience**
 - ☁️ Skilled in **AWS & Azure Cloud (AZ-104 Certified)**
 - ⚙️ Expertise in **Terraform (Infrastructure as Code)**
 - 🐳 Hands-on with **Docker & Kubernetes**
